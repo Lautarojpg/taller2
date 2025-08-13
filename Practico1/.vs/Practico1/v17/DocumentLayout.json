@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lauta\\source\\repos\\Practico1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F840CD-186E-4765-A378-E4DA1080C7A4}|Practico1\\Practico1.vbproj|c:\\users\\lauta\\source\\repos\\practico1\\practico1\\formulario1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{06F840CD-186E-4765-A378-E4DA1080C7A4}|Practico1\\Practico1.vbproj|solutionrelative:practico1\\formulario1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F840CD-186E-4765-A378-E4DA1080C7A4}|Practico1\\Practico1.vbproj|c:\\users\\lauta\\source\\repos\\practico1\\practico1\\formulario1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{06F840CD-186E-4765-A378-E4DA1080C7A4}|Practico1\\Practico1.vbproj|solutionrelative:practico1\\formulario1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulario1.vb",
+              "DocumentMoniker": "C:\\Users\\lauta\\source\\repos\\Practico1\\Practico1\\Formulario1.vb",
+              "RelativeDocumentMoniker": "Practico1\\Formulario1.vb",
+              "ToolTip": "C:\\Users\\lauta\\source\\repos\\Practico1\\Practico1\\Formulario1.vb",
+              "RelativeToolTip": "Practico1\\Formulario1.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-10T20:44:47.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formulario1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lauta\\source\\repos\\Practico1\\Practico1\\Formulario1.vb",
+              "RelativeDocumentMoniker": "Practico1\\Formulario1.vb",
+              "ToolTip": "C:\\Users\\lauta\\source\\repos\\Practico1\\Practico1\\Formulario1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Practico1\\Formulario1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-10T20:38:56.688Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
